@@ -1,6 +1,6 @@
-# BikeWiki v2
+# BikeWiki
 
-BikeWiki v2 to nowoczesna strona wiedzy rowerowej, zaprojektowana jako praktyczna baza informacji dla osob, ktore jezdza rekreacyjnie, trenuja albo same serwisuja rower.
+BikeWiki to nowoczesna strona wiedzy rowerowej, zaprojektowana jako praktyczna baza informacji dla osob, ktore jezdza rekreacyjnie, trenuja albo same serwisuja rower.
 
 ## O stronie
 
@@ -29,6 +29,7 @@ BikeWiki dziala jak lekka aplikacja webowa: ma plynna nawigacje, wyszukiwarke tr
 ## Zakres merytoryczny
 
 Serwis obejmuje m.in.:
+
 - podstawy budowy roweru i nazewnictwo czesci
 - serwis i regulacje ukladow mechanicznych
 - dobor sprzetu i kompatybilnosc komponentow
